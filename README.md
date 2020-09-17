@@ -1,6 +1,6 @@
 # Fantasy-Premier-League-Team-Suggestor
 
-The ALgoalRITHM has the latest updated algo which I have used for selecting my Top 15 Squad.
+The ALgoalRITHM has the latest updated algo which I have used for selecting my Top 15 Squad. \n
 It primarily requires intricate data cleaning and knapsacking by the constraints.
 To write a blog regarding how my algorithm fared after I have 8 weeks of data. 
 I have not included any of the new signings in my algo except same country switches like Willian from Chelsea to Arsenal.
